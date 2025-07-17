@@ -15,17 +15,26 @@ Projects from the Great Learning Data Science and Business Analytics course
 * ANOVA.
 
 # Linear Regression
-
+* Predict number of movie views on an OTT platform.
+* Factors considered: Number of visitors, Ad_impressions, Trailer views, Genre etc.
+  
 # Machine Learning 1
-* Logistic regression.
-* Decision Trees.
+* Hotel booking cancellation prediction.
+* Factors considered: Lead time, Price of room, Duration of stay, Season, Special requests etc. 
+* Model 1: Logistic regression.
+* Model 2: Decision Trees with pre and post pruning.
 
 # Machine Learning 2
-* Bagging.
-* Random Forest.
-* Adaptive Boosting.
-* Gradient and Extreme Gradient Boosting.
+* Identify whether a candidate is eligible for visa or not.
+* Factors considered: Number of employees in the company the person works for, education, wage, job experience, region of employment, nationality etc.
+* Model 1: Bagging.
+* Model 2: Random Forest.
+* Model 3: Adaptive Boosting.
+* Model 4: Gradient Boosting.
+* Model 5: Extreme Gradient Boosting.
 
 # Unsupervised Learning
+* Clustering customers to target for credit cards.
+* Factors considered: Credit limit, Number of credit cards, Visits to bank, Online visits, Number of calls made etc.
 * K-Means clustering.
 * Hierarchical clustering.

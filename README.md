@@ -1,7 +1,7 @@
 # GL_DSBA
 Projects from the Great Learning Data Science and Business Analytics course
 
-# Hackathon Customer Experience Prediction
+# Hackathon: Customer Experience Prediction
 * Two-day competition to achieve a high prediction score based on accuracy.
 * Developed a quick solution by creating 2 XGB models with different sets of features, and combining their probabilities for a final score.
 * Finished as the **top-ranked** participant.
